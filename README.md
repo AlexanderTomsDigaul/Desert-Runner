@@ -1,2 +1,3 @@
 # trex
-trex runner game
+Desert Runner
+
